@@ -1,0 +1,4 @@
+class AppUrls{
+  static String supabaseUrl='https://ihljxwpsqytknnrnxmzb.supabase.co';
+  static String anonKey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlobGp4d3BzcXl0a25ucm54bXpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjMwOTI3MDksImV4cCI6MjAzODY2ODcwOX0.Z1cmRD2P6cMfNY6AnOQxW8PL-1-vLWUn9X9_9FBnBOo';
+}
